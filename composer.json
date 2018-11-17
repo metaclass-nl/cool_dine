@@ -1,0 +1,20 @@
+{
+    "name": "metaclass/cooldine",
+    "description": "Hands On tutorial ElasticSearch from PHP",
+    "keywords": ["ElasticSearch", "PHP", "Tutorial", "Skeleton", "Hands on"],
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "elasticsearch/elasticsearch": "^6.0",
+        "symfony/serializer": "^3.4",
+        "symfony/property-access": "^3.4"
+    },
+    "suggest": {
+        "ruflin/elastica": "^6.0"
+    }
+}
