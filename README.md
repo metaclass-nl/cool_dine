@@ -16,7 +16,7 @@ application frameworks, just PHP, HTML, CSS and a little bit of Javascript.
 Instead of a shop it results in a restaurant search page that includes 
 filtering by geograpical location as well as by features and price.
 
-<img src="http://metaclass.nl/dummy/cool_dine/cool_dine.png">
+<a href="http://metaclass.nl/dummy/cool_dine.html" target="_blank" title="Page dummy"><img src="http://metaclass.nl/dummy/cool_dine.png" style="border 1px solid black; widht: 300px">]</a>
 
 DOCUMENTATION
 -------------
