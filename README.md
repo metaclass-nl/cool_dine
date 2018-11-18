@@ -7,8 +7,7 @@ ElasticSearch provides a very powerful search engine and a simple PHP client,
 but the documentation on practical use in PHP is limited. In his talk on the
 Laravel Meetup Groningen Peter Steenbergen filled the gap: He explained the 
 internals of the search and filtering page of shop application in PHP 
-using Laravel and Vue.js. His code is remarkably simple but what is does 
-is [surprisingly cool](https://image.slidesharecdn.com/presentatielaravelphp-180327070244/95/getting-started-with-laravel-elasticsearch-51-638.jpg?cb=1522171800)!
+using Laravel and Vue.js. 
 
 This hands-on tutorial provides skeleton and instructions for building such a page 
 yourself. To reach an audience as large as possible it works without 
@@ -16,7 +15,7 @@ application frameworks, just PHP, HTML, CSS and a little bit of Javascript.
 Instead of a shop it results in a restaurant search page that includes 
 filtering by geograpical location as well as by features and price.
 
-<a href="http://metaclass.nl/dummy/cool_dine.html" target="_blank" title="Page dummy"><img src="http://metaclass.nl/dummy/cool_dine.png" style="border: 1px solid black; width: 300px"></a>
+<a href="http://metaclass.nl/dummy/cool_dine.html" title="Page dummy"><img src="http://metaclass.nl/dummy/cool_dine50.png" style="border: 1px solid black"></a>
 
 DOCUMENTATION
 -------------
