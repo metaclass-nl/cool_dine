@@ -73,7 +73,7 @@ COPYRIGHT, LICENCE AND DISCLAIMER
 ---------------------------------
 
 The code in this bundle was based on [CoolShop from Peter Steenbergen](https://github.com/petericebear/coolshop)
-Modifications and additions are Copyricht (c) MetaClass, Groningen, 2018.
+Modifications and additions are Copyricht (c) MetaClass, Groningen, 2018. All rights reserved.
 
 This bundle is under the MIT license. See [the complete license](meta/LICENSE) in the bundle
 
