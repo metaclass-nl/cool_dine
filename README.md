@@ -1,3 +1,5 @@
+This repositry is not maintained.
+
 Hands On tutorial ElasticSearch from PHP
 ========================================
 
